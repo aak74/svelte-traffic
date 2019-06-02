@@ -16,5 +16,5 @@ export default function () {
     startLoop([
       moveCars,
     ]);
-  }, 2000);
+  }, 20);
 }

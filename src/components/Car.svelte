@@ -17,7 +17,7 @@
   }
 </style>
 <g
-  transform={`translate(${car.x}, ${car.y}) scale(0.02)`}
+  transform={`translate(${car.x}, ${car.y}) scale(0.02) rotate(${car.angle})`}
   out:fly={{ y: -5, duration: 200 }}
   class={car.color}
 >
