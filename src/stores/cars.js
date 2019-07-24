@@ -11,7 +11,7 @@ export default writable([
     id: 3, x: 10, y: 40, speed: 0.15, color: 'blue', trackType: 'straight', angle: 0,
   },
   {
-    id: 4, x: 220, y: 60, speed: 0.1, color: 'blue', trackType: 'circle', angle: 0, r: 120,
+    id: 4, x: 220, y: 60, speed: 0.5, color: 'blue', trackType: 'circle', angle: 0, r: 120,
   },
   {
     id: 5, x: 220, y: 75, speed: 0.15, color: 'red', trackType: 'circle', angle: 0, r: 105,
