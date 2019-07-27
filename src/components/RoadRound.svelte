@@ -5,7 +5,7 @@
 <style>
   path {
     stroke: #aaaaaa;
-    stroke-width: 12px;
+    stroke-width: 10px;
     fill: none;
   }
 </style>

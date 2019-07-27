@@ -6,14 +6,14 @@
   import start from "../loops/game";
 
   const roads = [
-    {x: 0, y: 14, length: 480},
-    {x: 0, y: 29, length: 480},
-    {x: 0, y: 43, length: 480},
+    {x: 0, y: 13.5, length: 480},
+    {x: 0, y: 28.5, length: 480},
+    {x: 0, y: 43.5, length: 480},
   ];
   const roundRoads = [
-    {x: 222, y: 178, r: 115},
-    {x: 222, y: 178, r: 102},
-    {x: 222, y: 178, r: 89},
+    {x: 220, y: 180, r: 117},
+    {x: 220, y: 180, r: 102},
+    {x: 220, y: 180, r: 87},
   ];
   start();
 </script>
